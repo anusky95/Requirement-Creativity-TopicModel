@@ -1,4 +1,4 @@
-# Requirement_Creativity_TopicModel
+# Requirement Creativity TopicModel
 This is an implementation of Topic Modeling using Latent Dirichlet Allocation, Word2Vector and Part of Speech Tagging
 in order to cluster the data set into different topics based on the content of the data.
 
